@@ -24,7 +24,7 @@ git --version
 
 ## 3. Visual Studio Code (VS Code)
 - **Purpose**: Code editor for DevOps scripts and docs.
-- **Screenshot**: ![VS Code Installed](images/visualStudioInit.png)
+- **Screenshot**: ![VS Code Installed](images/visuaStudioInit(1).png)
 - VS Code Download: [VS Code Download](https://code.visualstudio.com/)
 
 
@@ -85,5 +85,5 @@ wsl --set-version Ubuntu-20.04 2
 ## 9. Ubuntu-VirtualBox
 - **Description**: Ubuntu in VirtualBox is a virtualization tool that lets me run Ubuntu on my virtualbox machine, perfect for testing DevOps environments and configurations.
 - **Status**: Installed within a simple VM.
-- **Screenshot**: ![Ubuntu-VirtualBox Installed](images/ubuntuInVirtualbox.pngs.png)
+- **Screenshot**: ![Ubuntu-VirtualBox Installed](images/ubuntuInVirtualbox (1).pngs.png)
 - --Download from official website only.
