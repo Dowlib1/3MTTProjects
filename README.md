@@ -9,7 +9,7 @@ I have set up a demo of my installations on for a beginner DevOps Environment fo
 
 ## 1. Git Bash
 - **Purpose**: Git CLI for version control.
-- **Screenshot**: [Git Bash Installed](images/Githubb.png)
+- **Screenshot**: ![Git Bash Installed](images/Githubb.png)
 
 ##Confirm Git Bash Installation
 ```
@@ -85,5 +85,5 @@ wsl --set-version Ubuntu-20.04 2
 ## 9. Ubuntu-VirtualBox
 - **Description**: Ubuntu in VirtualBox is a virtualization tool that lets me run Ubuntu on my virtualbox machine, perfect for testing DevOps environments and configurations.
 - **Status**: Installed within a simple VM.
-- **Screenshot**: ![Ubuntu-VirtualBox Installed](images/ubuntuInVirtualbox (1).pngs.png)
+- **Screenshot**: ![Ubuntu-VirtualBox Installed](images/ubuntuInVirtualbox(1).pngs.png)
 - --Download from official website only.
