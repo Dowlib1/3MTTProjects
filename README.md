@@ -24,7 +24,7 @@ git --version
 
 ## 3. Visual Studio Code (VS Code)
 - **Purpose**: Code editor for DevOps scripts and docs.
-- **Screenshot**: ![VS Code Installed](images/visuaStudioInit(1).png)
+- **Screenshot**: ![VS Code Installed](images/visuaStudioInit.png)
 - VS Code Download: [VS Code Download](https://code.visualstudio.com/)
 
 
@@ -53,13 +53,13 @@ wsl --set-version Ubuntu-20.04 2
 ## 7. Snipaste
 - **Description**: Snipaste is a lightweight screenshot and annotation tool I use to capture and mark up images for documentation, streamlining my DevOps note-taking process.
 - **Status**: Installed on Windows.
-- **Screenshot**: ![Snipaste Installed](images/snip.png)
+- **Screenshot**: ![Snipaste Installed](images/Snipa.png)
 - --Download from official website only.
 - - **Download Link**: [Snipaste Download](https://www.snipaste.com/download.html)
 
 
 - ###You will should see a page like this.
-- - **Screenshot**: ![Snipaste Installed](images/snipa.png)
+- - **Screenshot**: ![Snipaste Installed](images/Snip.png)
 
 
 ##Code Example: CLI to capture a specific area (run in VS Code terminal)
@@ -73,7 +73,7 @@ wsl --set-version Ubuntu-20.04 2
 ## 8. VirtualBox
 - **Description**: VirtualBox is a virtualization tool that lets me run multiple operating systems (like Ubuntu) on my Windows machine, perfect for testing DevOps environments and configurations.
 - **Status**: Installed with a sample VM.
-- **Screenshot**: ![VirtualBox Installed](screenshots/virtualbox_install.png)
+- **Screenshot**: ![VirtualBox Installed](images/vbox2.png)
 - --Download from official website only.
 
 ##Code Example: VBoxManage to create a VM (run in VS Code terminal)
@@ -85,5 +85,5 @@ wsl --set-version Ubuntu-20.04 2
 ## 9. Ubuntu-VirtualBox
 - **Description**: Ubuntu in VirtualBox is a virtualization tool that lets me run Ubuntu on my virtualbox machine, perfect for testing DevOps environments and configurations.
 - **Status**: Installed within a simple VM.
-- **Screenshot**: ![Ubuntu-VirtualBox Installed](images/ubuntuInVirtualbox(1).pngs.png)
+- **Screenshot**: ![Ubuntu-VirtualBox Installed](images/Ubuntuvirt.png)
 - --Download from official website only.
